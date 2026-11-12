@@ -1,0 +1,6 @@
+{
+  "name": "Super Service",
+  "description": "Enterprise Kolkata facility management, staff operations, admin approval, attendance & client portal",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
